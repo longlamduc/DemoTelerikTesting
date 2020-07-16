@@ -1,0 +1,2 @@
+System.Data.SqlClient
+server = DESKTOP-6J95KBQ\SQLEXPRESS; database = HotelBookingDb; uid = sa; pwd = 123456
