@@ -52,6 +52,7 @@ namespace TestProject2
         [CodedStep(@"Enter text '1305' in 'UidText'")]
         public void WebTestWithLogin_CodedStep()
         {
+            // Update code
                         // Enter text '1305' in 'UidText'
                         Actions.SetText(Pages.Guru99BankHomePage0.UidText, "1303");
                         

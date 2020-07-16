@@ -22,7 +22,7 @@
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CodedStepDescriptor",
               "__value": {
-                "Code": "                        // Enter text '1305' in 'UidText'\r\n                        Actions.SetText(Pages.Guru99BankHomePage0.UidText, \"1303\");\r\n                        ",
+                "Code": "            // Update code\r\n                        // Enter text '1305' in 'UidText'\r\n                        Actions.SetText(Pages.Guru99BankHomePage0.UidText, \"1303\");\r\n                        ",
                 "RequiresSilverlight": false,
                 "WaitOnElements": true,
                 "WaitOnElementsTimeout": 30000,
